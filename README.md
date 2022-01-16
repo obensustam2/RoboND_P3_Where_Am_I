@@ -3,5 +3,5 @@ In this project, you will learn to utilize ROS AMCL package to accurately locali
 To launch gazebo environment and localization
 ```bash
 roslaunch my_robot world.launch
-roslaunch my_robot amcl.launch
+roslaunch my_robot amcl.launch 
 ```
