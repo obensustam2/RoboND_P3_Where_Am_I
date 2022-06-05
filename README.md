@@ -6,9 +6,8 @@ The aim of the project is to make robot perform autonomous navigation in known 2
   <br>Robot is navigating autonomously
 </p>
 
-## Packages
+## Package
 * `my_robot`: Which includes robot model, 2D map, AMCL and move_base parameters, rviz configuration.
-* `ball_chaser`: Which includes teleoperation node. 
 
 ## Nodes
 * `map_server`: Which publishes **/map** topic.
